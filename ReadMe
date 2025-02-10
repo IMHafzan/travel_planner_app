@@ -1,0 +1,53 @@
+# 🌍 AI Travel Planner
+
+**Smart Itinerary Generation Powered by DeepSeek**  
+*Your Personal Travel Assistant for Perfect Trip Planning*
+
+🚀 [Live Demo](#) | 📱 [Download APK](#) | 📜 [API Documentation](#)
+
+---
+
+## ✨ Features
+
+- **AI-Powered Itineraries**: Generate detailed daily plans based on destination, dates, and travel preferences
+- **Multi-Modal Authentication**: Secure JWT login + guest mode
+- **Offline-First**: Hive local storage for itinerary access without internet
+- **Cross-Platform**: Android/iOS/Web ready with Flutter
+- **Smart Suggestions**: AI-curated activity recommendations
+- **Travel History**: Save and revisit past itineraries
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**  
+(https://flutter.dev)  
+**Backend**  
+(https://nodejs.org)  
+(https://www.mongodb.com)
+
+---
+
+## 🚀 Getting Started
+
+```bash
+# Clone & Run
+git clone https://github.com/imhafzan/ai-travel-planner.git
+cd ai-travel-planner
+flutter pub get
+flutter run
+```
+
+---
+
+## 📸 Preview
+
+| Auth Screen | Itinerary View | Settings |
+|-------------|----------------|----------|
+| <img src="screenshots/auth.png" width="200"> | <img src="screenshots/plan.png" width="200"> | <img src="screenshots/settings.png" width="200"> |
+
+---
+
+## 📄 License  
+MIT © 2025 imhafzan
+*"Travel Smarter, Not Harder"*
